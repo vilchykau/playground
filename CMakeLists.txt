@@ -4,3 +4,4 @@ project(PlayGround)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(PlayGround main.cpp)
+add_executable(double_select_sort double_select_sort.cpp)
