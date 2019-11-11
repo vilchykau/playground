@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(PlayGround main.cpp)
 add_subdirectory(Sorts)
+add_subdirectory(SortsShitVersion)

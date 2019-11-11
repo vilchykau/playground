@@ -1,0 +1,1 @@
+add_executable(sorts main.cpp)
