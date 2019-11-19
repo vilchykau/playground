@@ -60,3 +60,4 @@ int main(){
     SaveResult(a1, array_size, "brush_out.txt");
     SaveResult(a2, array_size, "select_out.txt");
 }
+
